@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages1
+## About Me
 
-You can use the [editor on GitHub](https://github.com/vo8zhaoyao/vo8zhaoyao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am now a forth year Ph.D. student at [Navigation Research Center](http://nrc.nuaa.edu.cn), [Nanjing University of Aeronautics and Astronautics](http://www.nuaa.edu.cn), supervised by Prof. [Zhi Xiong](http://faculty.nuaa.edu.cn/xz1/zh_CN/index.htm). I am also a visiting Ph.D. student at Universidad Politecnica de Madrid with Prof. Pascual Campoy.
 
 ### Markdown
 
